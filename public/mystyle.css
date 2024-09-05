@@ -1,0 +1,22 @@
+body {
+    background-color: skyblue;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    width: 40%;
+}
+
+.container-fluid {
+    margin: auto;
+  width: 30%;
+  border: 3px solid green;
+  padding: 10px;
+  background-color: white;
+  text-align: center;
+ wrap: wrap;
+
+.item {
+    text-align: center;
+}
